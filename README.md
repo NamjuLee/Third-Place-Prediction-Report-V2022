@@ -1,5 +1,8 @@
-# Third Place Report [V2022]
-### Contribution to Architectural Institute of Korea
+# Third Place Report(Design, Data, AI) [V2022]
+### 2022 Version for Contribution to Architectural Institute of Korea
+### 제3 공간 분석과 적용 (디자인, 데이터, 인공지능), 대한건축학회 프로젝트 리포트 기고 버전
+
+##### [DaumBrunch Full Version](https://brunch.co.kr/@njnamju/148)
 
 -----
 * Inital research, [MIT Media Lab, City Science](https://www.media.mit.edu/groups/city-science/overview/)
