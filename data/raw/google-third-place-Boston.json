@@ -131,7 +131,12 @@
             "lon": -71.071598
         }
     ],
-    "amusement_park": [],
+    "amusement_park": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "aquarium": [
         {
             "lat": 42.302786,
@@ -142,7 +147,12 @@
             "lon": -71.0711465
         }
     ],
-    "art_gallery": [],
+    "art_gallery": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "atm": [
         {
             "lat": 42.316984,
@@ -1511,7 +1521,12 @@
             "lon": -71.04790799999999
         }
     ],
-    "beauty_salon": [],
+    "beauty_salon": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "bicycle_store": [
         {
             "lat": 42.3074925,
@@ -1720,8 +1735,18 @@
             "lon": -71.085825
         }
     ],
-    "bowling_alley": [],
-    "bus_station": [],
+    "bowling_alley": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
+    "bus_station": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "cafe": [
         {
             "lat": 42.3145051,
@@ -2618,8 +2643,18 @@
             "lon": -71.06639659999999
         }
     ],
-    "car_repair": [],
-    "car_wash": [],
+    "car_repair": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
+    "car_wash": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "casino": [
         {
             "lat": 42.326509,
@@ -3318,8 +3353,18 @@
             "lon": -71.05466229999999
         }
     ],
-    "city_hall": [],
-    "clothing_store": [],
+    "city_hall": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
+    "clothing_store": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "convenience_store": [
         {
             "lat": 42.3303065,
@@ -4606,7 +4651,12 @@
             "lon": -71.10487669999999
         }
     ],
-    "department_store": [],
+    "department_store": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "doctor": [
         {
             "lat": 42.3360489,
@@ -6999,7 +7049,12 @@
             "lon": -71.04789900000002
         }
     ],
-    "furniture_store": [],
+    "furniture_store": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "gas_station": [
         {
             "lat": 42.331326,
@@ -7258,8 +7313,18 @@
             "lon": -71.10356759999999
         }
     ],
-    "general_contractor": [],
-    "grocery_or_supermarket": [],
+    "general_contractor": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
+    "grocery_or_supermarket": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "gym": [
         {
             "lat": 42.3352798,
@@ -7808,7 +7873,12 @@
             "lon": -71.08207569999999
         }
     ],
-    "hardware_store": [],
+    "hardware_store": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "health": [
         {
             "lat": 42.28943580000001,
@@ -8297,7 +8367,12 @@
             "lon": -71.07736059999999
         }
     ],
-    "home_goods_store": [],
+    "home_goods_store": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "hospital": [
         {
             "lat": 42.3373318,
@@ -11724,7 +11799,12 @@
             "lon": -71.1019629
         }
     ],
-    "night_club": [],
+    "night_club": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "painter": [
         {
             "lat": 42.28882490000001,
@@ -13095,7 +13175,12 @@
             "lon": -71.0841863
         }
     ],
-    "pet_storepharmacy": [],
+    "pet_storepharmacy": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "physiotherapist": [
         {
             "lat": 42.33094200000001,
@@ -13146,7 +13231,12 @@
             "lon": -71.0436818
         }
     ],
-    "place_of_worship": [],
+    "place_of_worship": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "plumber": [
         {
             "lat": 42.3000889,
@@ -13463,7 +13553,12 @@
             "lon": -71.095764
         }
     ],
-    "post_office": [],
+    "post_office": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "real_estate_agency": [
         {
             "lat": 42.3123527,
@@ -14350,7 +14445,12 @@
             "lon": -71.06848099999999
         }
     ],
-    "rv_park": [],
+    "rv_park": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "school": [
         {
             "lat": 42.3378831,
@@ -14949,7 +15049,12 @@
             "lon": -71.1031883
         }
     ],
-    "shoe_store": [],
+    "shoe_store": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "shopping_mall": [
         {
             "lat": 42.3385419,
@@ -16508,8 +16613,18 @@
             "lon": -71.05124479999999
         }
     ],
-    "taxi_stand": [],
-    "train_station": [],
+    "taxi_stand": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
+    "train_station": [
+        {
+            "lat": 0,
+            "lon": 0
+        }
+    ],
     "travel_agency": [
         {
             "lat": 42.301547,

@@ -14,31 +14,53 @@
 
 -----
 Table of contents
-#### *1. Parsing, Processing, Visualizing Data*
-*1.1. Procssing JSON*
-*1.2. Processing CSV*
-*1.3. Visualization*
 
-#### *2. Processing Data For Train*
-*2.1. Distance*
-*2.2. Decay*
+#### *1. Parsing data, Google Place API*
+*1.2. Google Place API*
+*1.2. Download data by Google Place API*
 
-#### *3. Models*
+#### *2. Parsing, Processing, Visualizing Data*
+*2.1. import and Merge data, JSON*
+*2.2. Processing data, CSV*
+*2.3. Visualization*
+*2.3. Visualization, LA and Redlands*
 
-#### *4. Network*
-*4.1. Distance(Euclidean)*
-*4.2. Decay model*
-*4.3. Prediction*
-*4.4. Decay model(Small)*
-*4.5. Prediction*
+#### *3. Processing Data For Train*
+*3.1. Distance*
+*3.2. Decay*
+*3.3. Process distance and decay cost in Los Angeles and Redlands*
 
-#### *5. Network and Implementation*
-*5.1. data processing*
-*5.2. Network Model*
+#### *4. Training Models*
+*4.1. Import data and process data for fitting models*
+*4.2. Logistic Regression(Short)*
+*4.3. SVM(Short)*
+
+#### *5. Network*
+*5.1. Distance(Euclidean)*
+*5.2. Decay model*
 *5.3. Prediction*
-*5.4. Implementation and Visualization*
-*5.5. Application*
-*5.6. Dominant Third Place in the area*
+*5.4. Decay model(Small) and Prediction*
+
+#### *6. Fitting Network and Implementation*
+*6.1. data processing*
+*6.2. Network Model*
+*6.3. Prediction*
+*6.4. Evaluation, Implementation, and Visualization*
+*6.5. Application*
+*6.6. Dominant Third Place in the area*
+
+#### *7. Networks for Boston, LA, and Redlands*
+*7.1. Import libs and modules*
+*7.2. Geo Processing and Cost module*
+*7.3. Data Processing modules*
+*7.4. Visualization module*
+*7.5. Network model class*
+*7.6. Build, Train, Fit Models for cities*
+*7.7. Prediction and Evaluation*
+*7.8. Application: Area(87.12 km²)*
+*7.9. Application: Area(2.00 km²)*
+*7.10. Application: Place(6 locations)*
+
 
 -----
 Author: NJ Namju Lee / nj.namju@gmail.com  
