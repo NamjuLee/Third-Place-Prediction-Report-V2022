@@ -96,3 +96,14 @@ Woo. Junghyun, (2022). Numeric Network Analysis for Pedestrians, https://axuplat
 Lee, Namju, (2022). Computational Design Thinking for Designers, https://nj-namju.medium.com/computational-design-thinking-for-designers-68224bb07f5c
 
 Lee, Namju. (2016). Third Place Mobility Energy Consumption Per Person, http://www.njstudio.co.kr/main/project/2016_MobilityEnergyConsumptionMITMediaLab 
+
+
+#### Others:
+
+Analyzing Third Place, Paper Presentation & Panel Discussion at DigitalFUTURES 2020 - [link](https://youtu.be/rgmLUXqjGho)
+
+Demo, for Third Place Mobility, MIT Media Lab - [link](https://youtu.be/FMBxHGcWrXA)
+
+Review, Third Place, Media Lab, (Korean) - [link](https://youtu.be/gz9azwMx0Uc)
+
+Addon, Numerical Urban Utility - link, Addon [link](https://youtu.be/0vn-QQ0z__Q), [Addon](https://www.food4rhino.com/en/app/numerical-urban-utility)
