@@ -1,5 +1,7 @@
 # Third Place Report(Design, Data, AI) [V2022]
 ### 2022 Version for Contribution to Architectural Institute of Korea
+##### [Medium: Reading material](https://nj-namju.medium.com/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a)
+
 ### 제3 공간 분석과 적용 (디자인, 데이터, 인공지능), 대한건축학회 프로젝트 리포트 기고 버전
 
 ##### [DaumBrunch Full Version](https://brunch.co.kr/@njnamju/148)
