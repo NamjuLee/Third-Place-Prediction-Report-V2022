@@ -18,6 +18,16 @@
   제3 공간 분석과 적용 (디자인, 데이터, 인공지능)  <br> https://brunch.co.kr/@njnamju/148 <br>
 
 -----
+
+<a href="https://youtu.be/hzwkfnVSH4o" rel="some text">
+<img src="./img/ComputationalDesign_46-1.jpg" width="450px" />
+</a>
+
+<a href="https://youtu.be/WSVEg2DMsYk" rel="some text">
+<img src="./img/ComputationalDesign_46-2.jpg" width="450px" />
+</a>
+
+-----
 Table of contents
 
 #### *1. Parsing data, Google Place API*
