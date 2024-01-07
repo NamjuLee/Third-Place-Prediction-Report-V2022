@@ -84,7 +84,7 @@ Author: NJ Namju Lee / nj.namju@gmail.com
 * [Git](https://github.com/NamjuLee)
 
 * [Web](http://www.njstudio.co.kr)
-* [Lab](http://www.njslab.com/NJSLabCore/)
+* [Lab](https://namjulee.github.io/njs-lab-public/)
 
 * [Video(English)](https://www.youtube.com/c/njnamjulee)
 * [Writing(English)](https://medium.com/@nj-namju)  
